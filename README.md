@@ -1,4 +1,4 @@
-# PHOTO-BAY
+# Photo
 
 ## Description
 
