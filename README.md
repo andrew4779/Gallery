@@ -1,4 +1,4 @@
-# Photo-bay
+# Gallery
 
 ## Description
 
@@ -23,4 +23,5 @@ Andrew kimani
 
 ## Contact Information
 Email = andrewkimani02@gmail.com
+</br>
 Phone-number = +254793857337
