@@ -13,7 +13,6 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 from pathlib import Path
 import os
 
-import django
 import cloudinary
 import cloudinary.uploader
 import cloudinary.api
@@ -142,7 +141,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 cloudinary.config( 
   cloud_name = "dv5kkzgqy", 
   api_key = "132249491479223", 
-  api_secret = "132249491479223" 
+  api_secret = "JorPJSDD7y84_8p_ELkEvGOVnnU",
 )
 
 # Default primary key field type
