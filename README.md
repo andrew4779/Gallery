@@ -2,7 +2,7 @@
 
 ## Description
 
-PhotoBay is a personal gallery application where you can display your photos for others to see.
+This is a personal gallery application where you can display your photos for others to see.
 
 ## Dependency installation process
 
