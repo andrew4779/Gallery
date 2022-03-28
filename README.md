@@ -1,27 +1,35 @@
-# Gallery
+# GALLERY
+#### Python Django Application
+#### By **Andrew kimani**
 
 ## Description
+An application where users can view images.
 
-This is a personal gallery application where you can display your photos for others to see.
-
-## Dependency installation process
-
+## Setup/Installation Requirements
+* Clone the repo: 
+```
+git clone https://github.com/andrew4779/Gallery.git
+```
+* Open the folder with your favorite IDE
+* Create a virtual environment and activate it
+* install requirements
+```
 pip install -r requirements.txt
+```
+* Run the application using the following command
+```
+python manage.py runserver
+```
 
-## Running the application
-to view the website run the command
+## Technologies Used
+* Python
+* Postgresql
+* Django
+* Heroku
 
-python3 manage.py runserver
+## Support and contact details
+andrewkimani02@gmail.com
 
-## Author 
-Andrew kimani
-
-## Technology Used
-* python
-* HTML
-*CSS
-
-## Contact Information
-Email = andrewkimani02@gmail.com
-</br>
-Phone-number = +254793857337
+### License
+This is under the [MIT](LICENSE) license
+Copyright (c) 2022 **Andrew kimani**
